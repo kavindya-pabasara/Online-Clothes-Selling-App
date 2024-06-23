@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">LabExam2</string>
+    <string name="product1" translatable="false">Original Nike Tights Men...</string>
+    <string name="product2" translatable="false">It was popularised with in...</string>
+    <string name="product3" translatable="false">There are many variations of Ipsum...</string>
+    <string name="product4" translatable="false">Contrary to popular belief, Lorem simply..</string>
+    <string name="product5" translatable="false">Original Nike Tights Men PRO Round Lead Walking Training Short Sleeve Quick Drying Breathable Sports Fitness Wear Black T-shirt</string>
+    <string name="product6" translatable="false">Cancel</string>
+    <string name="product7" translatable="false">Enter voucher code</string>
+    <string name="product8" translatable="false">Apply</string>
+    <string name="product9" translatable="false">Check Out</string>
+    <string name="product10" translatable="false">Payment Details</string>
+    <string name="product11" translatable="false">Pay Now</string>
+    <string name="product12" translatable="false">Welcome LEONORA!</string>
+    <string name="product13" translatable="false">LKR 3,500</string>
+    <string name="product14" translatable="false">Total: LKR 3,500</string>
+    <string name="product15" translatable="false">Welcome!</string>
+    <string name="product16" translatable="false">Enter your account details.</string>
+    <string name="product17" translatable="false">Log In</string>
+    <string name="product18" translatable="false">My Cart</string>
+    <string name="product19" translatable="false">Email         : </string>
+    <string name="product20" translatable="false">Password : </string>
+    <string name="product21" translatable="false">Delete</string>
+    <string name="product22" translatable="false">Saved Cards:</string>
+    <string name="product23" translatable="false">Add new card:</string>
+    <string name="product24" translatable="false">Name           : Leonora Morley</string>
+    <string name="product25" translatable="false">Phone number : +94 77 456 1234</string>
+    <string name="product26" translatable="false">Email                  : leo45@gmail.com</string>
+    <string name="product27" translatable="false">Edit Profile</string>
+    <string name="product28" translatable="false">Logout</string>
+</resources>

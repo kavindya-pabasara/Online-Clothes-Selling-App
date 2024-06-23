@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="product1">#FFFFFFFF</color>
+    <color name="product2">#FFFF5757</color>
+    <color name="product3">#FF000000</color>
+    <color name="product4">#FF7A6767</color>
+    <color name="product5">#FFD1C2C2</color>
+    <color name="product6">#FF4C4040</color>
+</resources>
