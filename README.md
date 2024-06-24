@@ -24,7 +24,7 @@ The Kylie Perkins Fabric Guardian mobile application prototype offers a conceptu
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/kavindya-pabasara/Online-Clothes-Selling-App.git
+   https://github.com/kavindya-pabasara/Online-Clothes-Selling-App.git
    ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
